@@ -1,6 +1,4 @@
-[[https://www.sciencenews.org/article/all-of-the-bases-in-dna-and-rna-have-now-been-found-in-meteorites]]
-
-
+https://user-images.githubusercontent.com/1830173/165779038-55002803-230b-4f6e-a02d-09e5636f0592.mp4
 
 <!--
 **coredipper/coredipper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
